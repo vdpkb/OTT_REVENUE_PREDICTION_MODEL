@@ -26,6 +26,7 @@ Independant variable X: Subscribers/Year/Content Spend/Profit
 Dependant variable Y: Overall revenue generated in dollars
 
 PROCESS DESCRIPTION
+
 -> Import required libraries from matplotlib, numpy, pandas, seaborn and sklearn
 -> Import dataset from source link mentioned above
 -> Visualize the dataset to understand the correlation, dependencies and trend (if any) between features
